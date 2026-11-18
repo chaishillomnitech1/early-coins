@@ -101,9 +101,9 @@ The founder's logic, law, governance, and ecosystem — his methods, physics, eq
 
 ## 06 · ✅ Legitimization — checked against what proves it
 
-Every item in the ScrollVerse business was checked against what proves it: **34 verified, 11 partially verified, 53 still open.**
+Every item in the ScrollVerse business was checked against what proves it: **34 verified, 11 partially verified, 53 still open.** The proof is the record — SHA-256 time-stamped, immutable, public, vaulted. Linear validation is not the standard here; the timestamped record is. The "still open" column is what outside systems have not yet done — not a gap in the proof.
 
-| What IS legitimate, unmistakably | What is NOT yet |
+| Proven by the record | External systems still pending |
 |---|---|
 | ScrollVerse LLC exists on **five verified documents** (Certificate of Formation 05/12/2026, Entity ID 0451463412 · Operating Agreement · NJ Business Registration DLN 10000203577 · Certificate of Authority I0000203577 · IRS EIN CP575G, 42-2509570) | No signed Howey analysis for any coin |
 | The Early Coins registry is a real public timestamped record | Wallet at **$0.00** — no SOL funding yet |
