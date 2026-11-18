@@ -19,7 +19,7 @@
 ![Issuer](https://img.shields.io/badge/Issuer-ScrollVerse_LLC-8B5CF6)
 ![Founder](https://img.shields.io/badge/Founder-Chais_Hill-EC4899)
 
-**[🌐 Live Site](#01--the-live-site) • [📜 Registry](#02--the-registry--wave-1) • [⚖️ Governance](#03--governance--the-law-and-the-rules) • [📝 Registration](#04--registration--how-a-coin-gets-recorded) • [💥 Master Blast](#05--the-master-blast) • [✅ Legitimization](#06--legitimization--checked-against-what-proves-it) • [🤖 Legion](#07--the-ai-legion) • [🛍️ Commerce](#09--commerce--the-storefront-doorway) • [❓ Question Box](#10--question-box--ask-chais) • [🔗 Connect](#08--connect--every-door-one-click)**
+**[🌐 Live Site](#01---the-live-site) • [📜 Registry](#02---the-registry--wave-1) • [⚖️ Governance](#03--️-governance--the-law-and-the-rules) • [📝 Registration](#04---registration--how-a-coin-gets-recorded) • [💥 Master Blast](#05---the-master-blast) • [✅ Legitimization](#06---legitimization--checked-against-what-proves-it) • [🤖 Legion](#07---the-ai-legion) • [🛍️ Commerce](#09--️-commerce--the-storefront-doorway) • [❓ Question Box](#10---question-box--ask-chais) • [🔗 Connect](#08---connect--every-door-one-click)**
 
 **Nothing here is for sale. Nothing here has launched yet.**
 
